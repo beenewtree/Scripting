@@ -1,0 +1,22 @@
+# Node / TypeScript tooling
+node_modules/
+dist/
+build/
+*.tsbuildinfo
+
+# 环境变量与密钥
+.env
+.env.*
+!.env.example
+
+# 日志与临时文件
+*.log
+.tmp/
+*.tmp
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/

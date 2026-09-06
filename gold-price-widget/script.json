@@ -1,0 +1,15 @@
+{
+  "icon": "chart.line.uptrend.xyaxis",
+  "color": "orange",
+  "name": "Gold Price Widget",
+  "version": "1.0.0",
+  "entry": "index.tsx",
+  "runInApp": true,
+  "description": "国际黄金价格走势小组件：实时价格、涨跌与近 30 日折线图（Yahoo Finance 数据源）。",
+  "localizedNames": {
+    "zh": "黄金价格走势"
+  },
+  "localizedDescriptions": {
+    "zh": "国际黄金（COMEX 黄金期货）价格走势小组件：展示最新价格、涨跌幅与近 30 日走势图，支持人民币/克参考换算与手动刷新。"
+  }
+}
